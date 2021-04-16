@@ -1,5 +1,5 @@
 My Github Profile : <a href="https://github.com/19smabtahinoor"> S.M.Abtahi Noor</a>
-# Live Demo of all projects
+# Live Demo of all projects : These projects are made by me
 
 <ol type="1">
 1.Expanding Image Card :  <a href="https://expanding-image-cards.vercel.app/"target="_blank">Live Demo</a>  <br>
